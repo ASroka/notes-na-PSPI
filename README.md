@@ -1,6 +1,10 @@
-Pierwsze programy w C
+![D. M. Ritchie](http://pl.wikipedia.org/wiki/Plik:Dennis_MacAlistair_Ritchie.jpg)
 
-Zwyczajowo zaczynamy od takiego programu: "hello world"
+
+##Pierwsze programy w C
+
+Zwyczajowo zaczynamy od takiego programu: 
+'hello world':
 
 
 ``` C
