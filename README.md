@@ -18,4 +18,13 @@ int main() {
 
 Praktycznie każdy język programowania ma taki program, zob. [Hello world program][1].
 
-[1]:http://en.wikipedia.org/wiki/Hello_world_program
+##TO DO
+
+W niedzielę:
+
+1. Porozmawiać o GitHub Desktop.
+1. Powtórzyć notację Markdown.
+1. Markdown online.
+
+
+[1]: http://en.wikipedia.org/wiki/Hello_world_program
