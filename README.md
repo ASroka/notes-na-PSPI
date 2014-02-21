@@ -1,8 +1,8 @@
-Pierwsze programyy w C
+Pierwsze programy w C
 
 
 ``` C
-
+#include <stdio.h>
 int main() {
    printf("hello world\n");
    return 0;
