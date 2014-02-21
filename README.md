@@ -1,7 +1,9 @@
-notes-na-PSPI
-=============
-qazwsedcrfv
+Pierwsze programyy w C
 
 
+``` C
 
-dscsdcscdcs
+int main() {
+   printf("hello world\n");
+   return 0;
+}
